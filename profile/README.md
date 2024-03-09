@@ -33,6 +33,7 @@ Currently Green Software - Oslo is driven by:
 - **Kristina Devochko**, [@guidemetothemoon](https://github.com/guidemetothemoon)
 
 Feedback, ideas or help from the community are always welcome!💚
+
 If you would like to help with:
 
 - the location for our next meetup,
