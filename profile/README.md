@@ -29,7 +29,7 @@ Other links that you should know of:
 
 ## Contributing and Support
 
-Currently Cloud Native and Kubernetes Oslo is driven by:
+Currently Green Software - Oslo is driven by:
 - **Kristina Devochko**, [@guidemetothemoon](https://github.com/guidemetothemoon)
 
 Feedback, ideas or help from the community are always welcome!💚
