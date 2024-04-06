@@ -40,4 +40,4 @@ If you would like to help with:
 - sponsoring food and drinks for our next meetup,
 - speaking at our next meetup,
 
-please reach out to through this [form](https://forms.gle/t515a7P4GNQb2t9i9)!🤗
+please reach out to us through this [form](https://forms.gle/t515a7P4GNQb2t9i9)!🤗
