@@ -31,6 +31,7 @@ Other links that you should know of:
 
 Currently Green Software - Oslo is driven by:
 - **Kristina Devochko**, [@guidemetothemoon](https://github.com/guidemetothemoon)
+- **Marta Paciorkowska**, [@xamebax](https://github.com/xamebax)
 
 Feedback, ideas or help from the community are always welcome!💚
 
