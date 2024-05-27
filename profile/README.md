@@ -27,6 +27,10 @@ Other links that you should know of:
 
 - Feedback form where you can send your ideas or feedback that you may have: [Green Software Oslo Feedback Form](https://forms.gle/t515a7P4GNQb2t9i9)
 
+## Speaking at Green Software Oslo
+
+Check out our [speaker guide](https://github.com/gsf-oslo/meetups/blob/8f0e5dca66a23ee04d21d5dabda3249fc43b0212/Speaking%20at%20Green%20Software%20Oslo%20-%20Q%26A.pdf) for more details about what it takes to be a speaker, what kind of topics you can talk about and how we can help you get started!😃
+
 ## Contributing and Support
 
 Currently Green Software - Oslo is driven by:
